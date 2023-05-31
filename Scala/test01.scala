@@ -1,4 +1,3 @@
-// Chinese output
 // 快速排序
 def quickSort(arr: Array[Int], left: Int, right: Int): Unit = {
   if (left < right) {
