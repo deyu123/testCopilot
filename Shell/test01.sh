@@ -1,3 +1,4 @@
+
 # 获取当前cpu使用率
 cpu_usage=$(top -l 1 | grep "CPU usage" | awk '{print $3}' | cut -d'%' -f1)
 
