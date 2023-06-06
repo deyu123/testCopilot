@@ -49,3 +49,47 @@
 2023.06.07 00:18:54 WARN  no build target for: /Users/deyu/workspace/homeProject/testCopilot/Java/TestClass.java
 2023.06.07 00:18:54 WARN  no build target for: /Users/deyu/workspace/homeProject/testCopilot/Java/TestClass.java
 2023.06.07 00:18:54 WARN  no build target for: /Users/deyu/workspace/homeProject/testCopilot/Java/TestClass.java
+2023.06.07 00:21:29 INFO  Shutting down server
+2023.06.07 00:21:29 INFO  shutting down Metals
+2023.06.07 00:21:29 INFO  Exiting server
+2023.06.07 00:21:39 INFO  Started: Metals version 0.11.12 in workspace '/Users/deyu/workspace/homeProject/testCopilot' for client Cursor 1.76.2.
+六月 07, 2023 12:21:39 上午 org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+信息: Flyway Community Edition 9.16.3 by Redgate
+六月 07, 2023 12:21:39 上午 org.flywaydb.core.internal.license.VersionPrinter printVersion
+信息: See release notes here: https://rd.gt/416ObMi
+六月 07, 2023 12:21:39 上午 org.flywaydb.core.internal.license.VersionPrinter printVersion
+信息: 
+六月 07, 2023 12:21:39 上午 org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+信息: Database: jdbc:h2:file:/Users/deyu/workspace/homeProject/testCopilot/.metals/metals (H2 2.1)
+六月 07, 2023 12:21:40 上午 org.flywaydb.core.internal.command.DbValidate validate
+信息: Successfully validated 4 migrations (execution time 00:00.039s)
+六月 07, 2023 12:21:40 上午 org.flywaydb.core.internal.command.DbMigrate migrateGroup
+信息: Current version of schema "PUBLIC": 4
+六月 07, 2023 12:21:40 上午 org.flywaydb.core.internal.command.DbMigrate logSummary
+信息: Schema "PUBLIC" is up to date. No migration necessary.
+2023.06.07 00:21:40 INFO  time: initialize in 0.72s
+2023.06.07 00:21:40 WARN  Build server is not auto-connectable.
+2023.06.07 00:21:40 WARN  no build tool detected in workspace '/Users/deyu/workspace/homeProject/testCopilot'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.07 00:21:40 WARN  no build target for: /Users/deyu/workspace/homeProject/testCopilot/Java/TestClass.java
+2023.06.07 00:23:52 INFO  Shutting down server
+2023.06.07 00:23:52 INFO  shutting down Metals
+2023.06.07 00:23:52 INFO  Exiting server
+2023.06.07 00:25:55 INFO  Started: Metals version 0.11.12 in workspace '/Users/deyu/workspace/homeProject/testCopilot' for client Cursor 1.76.2.
+六月 07, 2023 12:25:55 上午 org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+信息: Flyway Community Edition 9.16.3 by Redgate
+六月 07, 2023 12:25:55 上午 org.flywaydb.core.internal.license.VersionPrinter printVersion
+信息: See release notes here: https://rd.gt/416ObMi
+六月 07, 2023 12:25:55 上午 org.flywaydb.core.internal.license.VersionPrinter printVersion
+信息: 
+六月 07, 2023 12:25:55 上午 org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+信息: Database: jdbc:h2:file:/Users/deyu/workspace/homeProject/testCopilot/.metals/metals (H2 2.1)
+六月 07, 2023 12:25:55 上午 org.flywaydb.core.internal.command.DbValidate validate
+信息: Successfully validated 4 migrations (execution time 00:00.019s)
+六月 07, 2023 12:25:55 上午 org.flywaydb.core.internal.command.DbMigrate migrateGroup
+信息: Current version of schema "PUBLIC": 4
+六月 07, 2023 12:25:55 上午 org.flywaydb.core.internal.command.DbMigrate logSummary
+信息: Schema "PUBLIC" is up to date. No migration necessary.
+2023.06.07 00:25:55 INFO  time: initialize in 0.47s
+2023.06.07 00:25:56 WARN  Build server is not auto-connectable.
+2023.06.07 00:25:56 WARN  no build tool detected in workspace '/Users/deyu/workspace/homeProject/testCopilot'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.07 00:25:55 WARN  no build target for: /Users/deyu/workspace/homeProject/testCopilot/Java/TestClass.java
